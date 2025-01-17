@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kamana!
 - 👀 I’m interested in software design/development, website design/development and so much more!
 - 🌱 I’m currently learning a new language.
-- 📫 How to reach me: Linkden @ Kamana Chapagain (https://www.linkedin.com/in/kamanachapagain/)
+- 📫 How to reach me: LinkedIn @ Kamana Chapagain (https://www.linkedin.com/in/kamanachapagain/)
 - 😄 Pronouns: she/her
 
 <!---
